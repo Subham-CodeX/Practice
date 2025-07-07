@@ -12,4 +12,4 @@ quary_name =input()
 score= students_marks[quary_name]
 avg_score= sum(score) / len(score)
 
-print(f"{avg_score: .2f}")
+print(f"{avg_score:.2f}")
