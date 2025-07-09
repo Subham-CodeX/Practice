@@ -9,4 +9,3 @@ def fibo(n):
 # print(fib)
 fibo(n)
 
-        
